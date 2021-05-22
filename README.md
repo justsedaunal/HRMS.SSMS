@@ -1,6 +1,6 @@
 # HRMS.SSMS
 SSMS database for Human Resource Management System 
-SSMS - Database
+
 
 
 Aşağıdaki isterlere göre veri tabanı modellemesi 
