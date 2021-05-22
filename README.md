@@ -33,3 +33,8 @@ Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Softwar
 Kabul Kriterleri:
 
     Bu pozisyonlar tekrar edemez. Kullanıcı uyarılır.
+    
+    
+    
+    
+
