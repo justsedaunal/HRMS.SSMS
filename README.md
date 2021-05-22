@@ -34,7 +34,6 @@ Kabul Kriterleri:
 
     Bu pozisyonlar tekrar edemez. Kullanıcı uyarılır.
     
-  <img src = [Bel1.pdf](https://github.com/sedayilmz/HRMS.SSMS/files/6526786/Bel1.pdf) >
 
     
     
